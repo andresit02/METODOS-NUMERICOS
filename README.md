@@ -1,2 +1,3 @@
 # METODOS-NUMERICOS
-Repositorio de la materia 
+## Andres Fernandez
+### GR1CC
